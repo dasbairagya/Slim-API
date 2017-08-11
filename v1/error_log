@@ -1,0 +1,7 @@
+[02-Jun-2017 06:33:54 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/biz15/public_html/wp.goigi.biz/sharesapcenew/wp-content/themes/sharespace/app/include/DbOperation.php on line 173
+[02-Jun-2017 06:34:42 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/biz15/public_html/wp.goigi.biz/sharesapcenew/wp-content/themes/sharespace/app/include/DbOperation.php on line 173
+[02-Jun-2017 06:35:50 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/biz15/public_html/wp.goigi.biz/sharesapcenew/wp-content/themes/sharespace/app/include/DbOperation.php on line 175
+[02-Jun-2017 06:37:29 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/biz15/public_html/wp.goigi.biz/sharesapcenew/wp-content/themes/sharespace/app/include/DbOperation.php on line 175
+[02-Jun-2017 06:39:27 UTC] PHP Fatal error:  Call to a member function get_row() on a non-object in /home/biz15/public_html/wp.goigi.biz/sharesapcenew/wp-content/themes/sharespace/app/include/DbOperation.php on line 172
+[02-Jun-2017 06:39:44 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/biz15/public_html/wp.goigi.biz/sharesapcenew/wp-content/themes/sharespace/app/v1/index.php on line 78
+[02-Jun-2017 06:44:19 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/biz15/public_html/wp.goigi.biz/sharesapcenew/wp-content/themes/sharespace/app/v1/index.php on line 78
